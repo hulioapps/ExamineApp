@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.apps.hulios.examineapp.MainActivity">
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+     <item android:id="@+id/item_supplements"
+           android:title="@string/title_supplements"
+           app:showAsAction="ifRoom">
+     </item>
+      <item android:id="@+id/item_nutrition"
+            android:title="@string/title_nutrition"
+            app:showAsAction="ifRoom">
+      </item>
+      <item android:id="@+id/item_blog"
+            android:title="@string/title_blog"
+            app:showAsAction="ifRoom">
+      </item>
+      <item android:id="@+id/item_insiders"
+            android:title="@string/title_insiders"
+            app:showAsAction="ifRoom">
+      </item>
+</menu>

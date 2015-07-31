@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <resources>
+            <color name="ColorPrimary">#ff005470</color>
+            <color name="ColorPrimaryDark">#ff222222</color>
+            <color name="WindowBackground">#fffdfdfe</color>
+            <color name="TextColorPrimary">#fffdfdfe</color>
+            <!--Color of toolbar icons-->
+            <color name="TextColorSecondary">#fffdfdfe</color>
+            <!--Color of sliding tab tab's text-->
+            <color name="TextColorTertiary">#fffdfdfe</color>
+            <!--Colors of ListView items-->
+            <color name="TextFieldText">#ff1a1a1a</color>
+            <color name="TextFieldTextSmall">#ff5a5a5a</color>
+            <!--Sliding tab colors-->
+            <color name="Indicator">#ffFFB400</color>
+            <color name="Divider">#ff004056</color>
+
+        </resources>
+
+

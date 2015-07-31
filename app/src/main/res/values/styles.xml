@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:popupMenuStyle">@style/MyPopupMenu</item>
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/TextColorPrimary</item>
+        <item name="android:textColorSecondary">@color/TextColorSecondary</item>
+        <item name="android:textColorTertiary">@color/TextColorTertiary</item>
+        <item name="android:windowBackground">@color/WindowBackground</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="MyPopupMenu">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/TextColorPrimary</item>
+        <item name="android:background">@color/ColorPrimary</item>
+    </style>
+
+    <style name="ListLargeTextView" parent="@android:style/TextAppearance.Large">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/TextFieldText</item>
+    </style>
+
+    <style name="ListSmallTextView" parent="@android:style/TextAppearance.Small">
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/TextFieldTextSmall</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ExamineApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_page">Examine.com</string>
+
+    <string name="title_section1_activity_main_page">Supplements</string>
+    <string name="title_section2_activity_main_page">Nutrition</string>
+    <string name="title_supplements">Supplements</string>
+    <string name="title_nutrition">Nutrition</string>
+    <string name="title_blog">Blog</string>
+    <string name="title_insiders">Insiders</string>
+
+
+    <string name="title_activity_supplements_page">SupplementsPageActivity</string>
+    <string name="title_section1_activity_supplements_page">Popular</string>
+    <string name="title_section2_activity_supplements_page">Most Reaserched</string>
+    <string name="title_section3_activity_supplements_page">Lastest Updated</string>
+    <string name="title_section4_activity_supplements_page">Class of Supplements</string>
+    <string name="title_section5_activity_supplements_page">All Supplements </string>
+    <string name="title_section6_activity_supplements_page">All Products</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_view_supplements">View Supplements</string>
+    <string name="action_supplement_stacks">Supplement Stacks</string>
+    <string name="action_view_topics">View Topics</string>
+    <string name="action_FAQ">FAQ</string>
+    <string name="drawer_open">Opened text</string>
+    <string name="drawer_close">Closed text</string>
+
+    <string name="error_text_large">Couldn\'t load this site.</string>
+    <string name="error_text_small">Tap to try again.</string>
+
+    <string name="error_text_large_nonet">Cannot connect to the Internet.</string>
+    <string name="error_text_small_nonet">Please Check your Internet connection.</string>
+    <string name="title_dialog_title">Full Title</string>
+
+    <string name="dialog_disclaimer_text">Examine.com is intended to be used for educational and information purposes only. Examine.com and its Editors do not advocate nutritional supplementation over proper medical advice or treatment and this sentiment will never be expressed through pages hosted under Examine.com. If using any pharmaceuticals or drugs given to you by a doctor or received with a prescription, you must consult with the doctor in question or an equally qualified Health Care Professional prior to using any nutritional supplementation. If undergoing medical therapies, then consult with your respective Therapist or Health Care Professional about possible interactions between your Treatment, any Pharmaceuticals or Drugs being given, and possible nutritional supplements or practices hosted on Examine.com.
+
+Examine.com does not assume liability for any actions undertaken after visiting these pages, and does not assume liability if one misuses supplements. Examine.com and its Editors do not ensure that unforeseen side effects will not occur even at the proper dosages, and thereby does not assume liability for any side effects from supplements or practices hosted under the domain of Examine.com.</string>
+    <string name="dialog_disclaimer_title">Medical Disclaimer</string>
+    <string name="app_exit_text">Are You sure You want to quit?</string>
+    <string name="app_exit_title">Quit</string>
+
+</resources>

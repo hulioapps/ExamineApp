@@ -1,0 +1,46 @@
+package com.apps.hulios.examineapp;
+
+
+import android.app.Activity;
+
+public class MainActivity extends Activity {
+}
+
+        /*TODO
+
+        - searching
+        - add web crawler?
+        */
+
+        /* DOING
+        - rebuild main page // 50%
+        - change design (materials) //90% (adjust tabs)
+        */
+
+        /* DONE
+          - WebView ROTATION
+          - /stacks/
+          - stacks items
+          - users
+          - /topics/
+          - topic item
+          - supplement matrix
+             / clicking on studies -- done
+             / clicking on ...show (write javascript function) -- done
+             / stars in supplement matrix -- done??
+          - add navigation drawer
+          - add up button (as menu item)
+          - add no internet connection protection (string.error_nonet) / timeout (string.error)
+          - add rewinding citations
+          - add loading bar when loading mWebView content
+          - /top/ redirection
+          - add changing bar titles
+          - examine medical disclaimer
+          - type of supplements bug
+          - things to know empty page
+          - first page internet connection check
+          - dynamic list items
+          - open page under item button in list item
+          - change listView to recycler
+
+         */

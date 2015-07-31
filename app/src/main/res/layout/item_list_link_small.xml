@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:minHeight="?android:attr/listPreferredItemHeight"
+              android:layout_height="wrap_content"
+              android:descendantFocusability="blocksDescendants"
+              android:gravity="center_vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/ListLargeTextView"
+            android:text="Large Text"
+            android:id="@+id/list_link_small_name"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/ListSmallTextView"
+            android:text="Small Text"
+            android:id="@+id/list_link_small_smallText"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_action_next_item"
+        android:id="@+id/list_link_small_imageView"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_marginLeft="16dp"
+        android:layout_weight="0"
+        android:adjustViewBounds="false"
+        />
+
+</LinearLayout>
